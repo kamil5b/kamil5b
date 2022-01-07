@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haykal Kamil also known as Sayang</h1>
 <h3 align="center">Full time Programmer - Part time Singer</h3>
 
-- 🌱 I’m currently learning **Node.js, Golang, Swift**
+- Speciality in **Golang**
 
 - 📫 How to reach me **kamilhaykal240801@gmail.com**
 
