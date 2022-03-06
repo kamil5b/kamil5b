@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haykal Kamil also known as Sayang</h1>
 <h3 align="center">Full time Programmer - Part time Singer</h3>
 
-- Speciality in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> **Golang**
+- Speciality in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://go.dev" target="_blank"> **Golang**
 
 - 📫 How to reach me **kamilhaykal240801@gmail.com**
 
